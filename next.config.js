@@ -5,10 +5,9 @@
 const branchName = 'nextjs-demo01';
 
 const nextConfig = {
-  reactStrictMode: true,
-  assetPrefix: branchName,
-  basePath: branchName,
-  output: 'export'
+//  reactStrictMode: true,
+//  assetPrefix: branchName,
+ // basePath: branchName,
 };
 
 module.exports = nextConfig;
