@@ -8,6 +8,7 @@ const nextConfig = {
 //  reactStrictMode: true,
 //  assetPrefix: branchName,
  // basePath: branchName,
+ output: "export",
 };
 
 module.exports = nextConfig;
