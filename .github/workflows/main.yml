@@ -26,8 +26,6 @@ jobs:
         env:
           URL_PREFIX: myapp
 
-      - name: Make dir
-        run: mkdir ./out
       #- name: Export Next.js app
       #  run: npm run export
 
